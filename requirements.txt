@@ -1,0 +1,6 @@
+cffi==1.15.0
+cryptography==36.0.1
+mpmath==1.2.1
+pycparser==2.21
+pyzmq==22.3.0
+sympy==1.9
